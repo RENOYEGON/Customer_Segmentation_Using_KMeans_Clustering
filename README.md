@@ -3,7 +3,9 @@
 #### Analyzing Online Retail II Dataset with Python, pandas, and scikit-learn
 
 ## Project Overview
-This project applies KMeans clustering to the Online Retail II dataset to identify distinct customer segments. By leveraging powerful Python libraries like pandas, scikit-learn, and matplotlib/seaborn, the project uncovers meaningful patterns in customer behavior that can inform business strategies, improve targeting, and enhance customer experience
+This project applies KMeans clustering to the Online Retail II dataset to identify distinct customer segments. 
+
+By leveraging powerful Python libraries like `pandas`, `scikit-learn`, `matplotlib`and `seaborn`, the project uncovers meaningful patterns in customer behavior that can inform business strategies, improve targeting, and enhance customer experience
 
 ##  Clustering Approach
 - Data Preprocessing
